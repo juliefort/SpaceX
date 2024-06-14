@@ -60,5 +60,6 @@ $(function() {
         })
     }
 
+    /* Initialisation de la fonction */
    filtered()
 })
